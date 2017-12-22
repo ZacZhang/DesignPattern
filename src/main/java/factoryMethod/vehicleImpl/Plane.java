@@ -1,6 +1,6 @@
-package factory.vehicleImpl;
+package factoryMethod.vehicleImpl;
 
-import factory.Movable;
+import factoryMethod.Movable;
 
 public class Plane implements Movable {
     public void run() {

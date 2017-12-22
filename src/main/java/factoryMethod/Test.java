@@ -1,6 +1,6 @@
-package factory;
+package factoryMethod;
 
-import factory.vehicleFactoryImpl.PlaneFactory;
+import factoryMethod.vehicleFactoryImpl.PlaneFactory;
 
 public class Test {
     public static void main(String[] args) {

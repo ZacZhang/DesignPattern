@@ -1,6 +1,6 @@
-package factory.vehicleImpl;
+package factoryMethod.vehicleImpl;
 
-import factory.Movable;
+import factoryMethod.Movable;
 
 public class Broom implements Movable {
     public void run() {
