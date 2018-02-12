@@ -7,9 +7,9 @@ public class ProxyPatternDemo {
 
         // image will be loaded from disk
         image.display();
-        System.out.println(" ");
+        //System.out.println(" ");
 
         // image will not be loaded from disk
-        image.display();
+        // image.display();
     }
 }
